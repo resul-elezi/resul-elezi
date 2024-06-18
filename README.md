@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning JavaScript, [Vue.js](https://vuejs.org) / [Nuxt.js](https://nuxt.com/) and [Astro](https://astro.build/) <br><br>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6478601dc4ec366ad5b5df06?variant=dark&roadmaps=frontend%2Cjavascript" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6478601dc4ec366ad5b5df06?variant=dark&roadmaps=frontend%2Cjavascript%2Cvue" alt="roadmap.sh"/></a>
