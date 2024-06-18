@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Recipe Blog
+- 🔭 I’m currently working on a Recipe Blog
 - 😄 I try to master JavaScript, if it is possible to do so
 - 🌱 I’m currently learning Vue.js / Nuxt.js and Astro <br><br>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6478601dc4ec366ad5b5df06?variant=dark&roadmaps=javascript%2Cvue%2Cfrontend" alt="roadmap.sh"/></a>
