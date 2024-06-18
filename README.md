@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JavaScript, vue.js/nuxt.js and [astro](https://astro.build/) <br><br>
+- 🌱 I’m currently learning JavaScript, [vue.js](https://vuejs.org) / [nuxt.js](https://nuxt.com/) and [astro](https://astro.build/) <br><br>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6478601dc4ec366ad5b5df06?variant=dark" alt="roadmap.sh"/></a>
