@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Recipe Blog
-- 😄 I try to master JavaScript, if it is even possible
+- 😄 I try to master JavaScript, if it is at all possible
 - 🌱 I’m currently learning [Vue.js](https://vuejs.org) / [Nuxt.js](https://nuxt.com/) and [Astro](https://astro.build/) <br><br>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6478601dc4ec366ad5b5df06?variant=dark&roadmaps=javascript%2Cvue%2Cfrontend" alt="roadmap.sh"/></a>
