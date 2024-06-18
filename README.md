@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JavaScript <br>
+- 🌱 I’m currently learning JavaScript <br><br>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6478601dc4ec366ad5b5df06?variant=dark" alt="roadmap.sh"/></a>
