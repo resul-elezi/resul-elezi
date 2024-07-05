@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 I try to master JavaScript, if it is possible to do so
  <br><br>
 
- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6478601dc4ec366ad5b5df06?variant=dark" alt="roadmap.sh"/></a>
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6478601dc4ec366ad5b5df06?variant=dark" alt="roadmap.sh"/></a>
 
