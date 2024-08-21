@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a Recipe Blog
 - 😄 I try to master JavaScript, if it is possible to do so
-<br>
+<hr>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=resul-elezi&abbreviated=true&style=for-the-badge&color=45BDED)
 
 
