@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a Recipe Blog
+- 🔭 I’m currently working on my own Blog
 - 😄 I try to master JavaScript, if it is possible to do so
 
 
